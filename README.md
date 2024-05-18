@@ -90,6 +90,23 @@
 * Browser
     * Microsoft Edge
     * Google Chrome
+         * AdGuard
+         * BewlyBewly
+         * CCFrank
+         * Cookie-editor
+         * crxMouse
+         * DeepL
+         * Duckduckgo Privacy Essentials
+         * OneTab
+         * React Developer Tools
+         * Screen Shader
+         * Silk - Privacy Pass Client
+         * Surfingkeys
+         * TechStack: Show Github Repo Tech Stack
+         * Vimium
+         * Wappalyzer - Technology profiler
+         * Web Developer
+         * Tempermonkey
     * Firefox
 * [Tabby](https://tabby.sh/)
 * Zetero
