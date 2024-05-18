@@ -69,12 +69,14 @@
 * [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 * wsl2
 * [winget](https://github.com/microsoft/winget-cli)
-    * wechat
+    * Tencent.TIM
+    * BaiduNetdiskService
+    * Tencent.WeChat
     * Tencent.TencentMeeting
     * 7zip.7zip
     * Mozilla.Firefox
     * [Microsoft.PowerToys](https://github.com/microsoft/PowerToys) --source winget
-    * telegram
+    * Telegram.TelegramDesktop
     * Spotify.Spotify
     * iCloud
     * Daum.PotPlayer --force
@@ -82,6 +84,9 @@
     * OpenJS.NodeJS
     * OBSProject.OBSStudio
     * Docker.DockerDesktop
+    * KDE.KDEConnect
+    * GoLang.Go
+    * Python
 * Browser
     * Microsoft Edge
     * Google Chrome
@@ -91,8 +96,13 @@
 * Obsidian
 * Xbox
 * [Geek Uninstaller](https://geekuninstaller.com/)
-* Apple Music "UWP App" from Edge
 * [Steam](https://store.steampowered.com/)
+* Twinkle Tray
+* AVerMedia Live Gamer EXTREME 2
+* Adobe
+* Apifox
+* Typora
+* G Hub
 
 ### Configuration
 
