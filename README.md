@@ -87,6 +87,7 @@
     * KDE.KDEConnect
     * GoLang.Go
     * Python
+    * feishu
 * Browser
     * Microsoft Edge
     * Google Chrome
