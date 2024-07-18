@@ -109,7 +109,6 @@
          * Web Developer
          * Tempermonkey
     * Firefox
-* [Tabby](https://tabby.sh/)
 * Zetero
 * Obsidian
 * Xbox
