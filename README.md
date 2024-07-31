@@ -64,13 +64,17 @@
 
 ## Windows
 
+### Development
+
+* [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) | Clash Verge
+* [gcc/clang](https://winlibs.com/#download-release)
+* wsl2
+
 ### Applications
 
-* [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
-* wsl2
 * [winget](https://github.com/microsoft/winget-cli)
+    * Alacritty
     * Tencent.TIM
-    * BaiduNetdiskService
     * Tencent.WeChat
     * Tencent.TencentMeeting
     * 7zip.7zip
@@ -78,7 +82,6 @@
     * [Microsoft.PowerToys](https://github.com/microsoft/PowerToys) --source winget
     * Telegram.TelegramDesktop
     * Spotify.Spotify
-    * iCloud
     * Daum.PotPlayer --force
     * Git.Git
     * OpenJS.NodeJS
@@ -88,6 +91,8 @@
     * GoLang.Go
     * Python
     * feishu
+    * BaiduNetdiskService
+    * iCloud
 * Browser
     * Microsoft Edge
     * Google Chrome
